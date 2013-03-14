@@ -15,6 +15,8 @@ def readfile(fh=None):
 	print "prefixed entity should work: %s" % xmltree.getroot().findall("{http://namespaces.cato.org/catoxml}entity/")
 	print "prefixed entity should work: %s" % xmltree.getroot().find("{http://namespaces.cato.org/catoxml}entity")
 	print "prefixed entity should work: %s" % xmltree.getroot().findall("{http://namespaces.cato.org/catoxml}entity")
+	print "prefixed entity should work: %s" % xmltree.getroot().find("cato:entity")
+	print "prefixed entity should work: %s" % xmltree.getroot().findall("cato:entity")
 	#er = xmltree.find("entity-ref")
 	print "this should have something: %s" % xmltree.getroot().findall("*/entity")
 
