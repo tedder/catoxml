@@ -1,0 +1,90 @@
+NIST name
+1600 Department of Labor
+7529 National Institutes of Health
+7500 Department of Health and Human Services
+7000 Department of Homeland Security
+1500 Department of Justice
+1100 Executive Office of the President
+1524 Drug Enforcement Administration
+1560 Bureau of Alcohol, Tobacco, Firearms and Explosives
+2400 Office of Personnel Management
+1330 National Oceanic and Atmospheric Administration/Under Secretary for Oceans and Atmosphere
+1300 Department of Commerce
+1400 Department of the Interior
+21CE U.S. Army Corps of Engineers, except civil program financing
+6800 Environmental Protection Agency
+1900 Department of State
+7200 U.S. Agency for International Development
+1200 Department of Agriculture
+7300 Small Business Administration
+19UN United Nations (and special programs)
+7013 Transportation Security Administration
+2000 Department of the Treasury
+0001 Congress, generally, no additional specification available
+1145 Peace Corps
+9523 Election Assistance Commission
+9700 Department of Defense (except military departments)
+7008 U.S. Coast Guard
+1443 National Park Service
+0500 Government Accountability Office
+0050 House of Representatives, The
+0010 Senate, The
+7015 Federal Law Enforcement Training Center
+2800 Social Security Administration
+2050 Internal Revenue Service
+2300 U.S. Tax Court
+1540 Bureau of Prisoners/Federal Prison System
+9559 Federal Reserve System, Board of Governors
+4900 National Science Foundation
+7530 Centers for Medicare & Medicaid Services
+5000 Securities and Exchange Commission
+1103 Office of Management and Budget
+4700 General Services Administration
+19UF Food and Agriculture Organization
+8600 Department of Housing and Urban Development
+7022 Federal Emergency Management Agency
+96CE U.S. Army Corps of Engineers - civil program financing only
+2100 Department of the Army (except Corps of Engineers Civil program financing)
+1422 Bureau of Land Management
+1448 U.S. Fish and Wildlife Service
+1323 Bureau of the Census
+8990 Federal Energy Regulatory Commission
+21MD Surgeon General
+1030 United States Sentencing Commission
+97AS Defense Logistics Agency
+6920 Federal Aviation Administration
+3600 Department of Veterans Affairs
+9506 Federal Election Commission
+9100 Department of Education
+7523 Centers for Disease Control and Prevention
+2900 Federal Trade Commission
+6900 Department of Transportation
+1101 President of the United States
+1700 Department of the Navy
+1434 Geological Survey
+19ME International Organization for Migration
+19AH Pan-American Health Organization
+1549 Federal Bureau of Investigation
+1027 Administrative Office of the U.S. Courts
+1001 Supreme Court of the United States
+4864 U.S. Commission on International Religious Freedom
+1800 U.S. Postal Service
+1630 Employment and Training Administration
+3620 Under Secretary for Health / Veterans Health Administration
+9540 Federal Housing Finance Agency
+8683 Federal Home Loan Mortgage Corporation (Freddie Mac)
+12C2 Forest Service
+8900 Department of Energy
+8681 Federal National Mortgage Association (Fannie Mae)
+0100 Architect of the Capitol
+1550 Office of Justice Programs
+7528 Agency for Healthcare Research and Quality
+7524 Food and Drug Administration
+1865 Citizens' Stamp Advisory Committee
+1160 Office of the Vice President of the United States
+2700 Federal Communications Commission
+7504 Office of the Inspector General
+3300 Smithsonian Institution
+8032 Lyndon B. Johnson Space Center
+2130 National Guard Bureau
+0099 Joint House and Senate Entities (Capitol Police Board, Capitol Guide Service, Office of the Attending Physician, Joint Economic Committee, Joint Committee on Printing, and Joint Committee on Taxation)
