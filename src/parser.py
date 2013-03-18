@@ -9,22 +9,10 @@ from lxml import etree as xml
 def readfile(fh=None):
 	xmltree = xml.parse(fh)
 
-	#print "prefixed entity should work: %s" % xmltree.find("cato:entity")
-	# SyntaxError: prefix 'cato' not found in prefix map
-
-	print "prefixed entity should work: %s" % xmltree.getroot().find("{http://namespaces.cato.org/catoxml}entity/")
-	print "prefixed entity should work: %s" % xmltree.getroot().findall("{http://namespaces.cato.org/catoxml}entity/")
-	print "prefixed entity should work: %s" % xmltree.getroot().find("{http://namespaces.cato.org/catoxml}entity")
-	print "prefixed entity should work: %s" % xmltree.getroot().findall("{http://namespaces.cato.org/catoxml}entity")
-	#print "prefixed entity should work: %s" % xmltree.getroot().find("cato:entity")
-	#print "prefixed entity should work: %s" % xmltree.getroot().findall("cato:entity")
-	#er = xmltree.find("entity-ref")
-	print "this should have something: %s" % xmltree.getroot().findall("*/entity")
-
-
-	print "this should iterate too:"
-	for e in xmltree.getroot().iter("entity"):
-		print "e: %s" % e
+	for e in xmltree.getroot().findall(".//{http://namespaces.cato.org/catoxml}entity-ref"):
+		#print "e: %s" % e
+		#print " '%s' %s" % (' '.join(e.text.split()), e.attrib.get('value'))
+		print " %s=%s" % (e.attrib.get('entity-type'), e.attrib.get('value'))
 
 	#print "this dumps elements so we can see what they contain"
 	#for e in xmltree.getroot().iter():
